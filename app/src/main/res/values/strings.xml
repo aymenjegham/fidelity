@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fidelité</string>
+    <string name="error_detected">TAG NOT DETECTED. WHERE DO YOU WANT WRITE!?!?</string>
+    <string name="ok_detection">TAG DETECTED: </string>
+
+    <string name="title">Hello World NFC!</string>
+
+    <string name="ok_writing">TAG WRITING SUCCESS!</string>
+    <string name="error_writing">ERROR DURING WRITING. ARE YOU SURE THAT YOUR TAG IS CLOSE TO YOUR MOBILE PHONE?</string>
+
+
+    <string name="title_activity_write">WriteActivity</string>
+    <string name="Nom">Nom</string>
+    <string name="Prenon">Prenom</string>
+    <string name="Organisation">Oganisation</string>
+    <string name="Email">Email</string>
+    <string name="Tel">Tel</string>
+    <string name="Adresse">Adresse</string>
+    <string name="Skype">Skype</string>
+    <string name="Position">Position</string>
+    <string name="Fie">Fixe</string>
+    <string name="Fax">Fax</string>
+    <string name="Host">PrintSecure</string>
+</resources>
